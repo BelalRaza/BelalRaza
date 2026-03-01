@@ -1,24 +1,16 @@
-# Belal Raza
-
+<!-- Header -->
 <div align="center">
+
 
 ### AI Engineer & Backend Developer
 **Building LLM pipelines, RAG systems, and voice-AI applications in production**
 
-<br>
+<br/>
 
-<!-- Social Links -->
-<a href="https://www.linkedin.com/in/belal-raza-999a1a345/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" alt="LinkedIn"/>
-</a>
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white&labelColor=111111)](https://belalrazaportfolio.netlify.app/)
 &nbsp;
-<a href="https://belalrazaportfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7c3aed" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:belal.r23csai@nst.rishihood.edu.in">
-  <img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" alt="Email"/>
-</a>
+
 
 </div>
 
@@ -46,13 +38,15 @@
 
 ```
 AI/ML        →  LLM Integration · RAG Pipelines · OCR Workflows · OpenAI API · Prompt Engineering
-Backend      →  Node.js · FastAPI · Express.js · Spring Boot · REST APIs · Maven · MySQL · MongoDB
+Backend      →  Node.js · Express.js · fastAPI · Spring Boot · REST APIs · Maven · MySQL · MongoDB
 Mobile       →  React Native · Expo · WebSockets · MMKV
 Tools        →  PyMuPDF4LLM · Docling · Appwrite · LiveKit · ElevenLabs · Git
 Languages    →  Python · JavaScript · Java · C++
 ```
 
 ---
+
+
 
 ## Currently
 
@@ -63,21 +57,5 @@ Languages    →  Python · JavaScript · Java · C++
 ---
 
 <div align="center">
-
-<sub>Open to SDE / AI Engineer roles · India & Remote</sub>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/belal-raza-999a1a345/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://belalrazaportfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7c3aed" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:belal.r23csai@nst.rishihood.edu.in">
-  <img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" alt="Email"/>
-</a>
-
+<sub>Open to SDE / AI Engineer roles · India & Remote · </sub>
 </div>
