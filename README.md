@@ -48,13 +48,6 @@ Languages    →  Python · JavaScript · Java · C++
 
 
 
-## Currently
-
-- 🎓 B.Tech Artificial Intelligence @ Newton School of Technology, Rishihood University (2023–2027)
-- 🔭 Deepening expertise in LLM architecture, vector databases, and production AI systems
-- 🌱 Exploring agentic workflows and real-time voice AI infrastructure
-
----
 
 <div align="center">
 <sub>Open to SDE / AI Engineer roles · India & Remote · </sub>
