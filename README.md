@@ -43,10 +43,10 @@
 
 ```
 AI/ML        →  LLM Integration · RAG Pipelines · OCR Workflows · OpenAI API · Prompt Engineering
-Backend      →  Node.js · Express.js · Spring Boot · REST APIs · Maven · MySQL · MongoDB
+Backend      →  Node.js ·FastApi· Express.js · Spring Boot · REST APIs · Maven · MySQL · MongoDB
 Mobile       →  React Native · Expo · WebSockets · MMKV
 Tools        →  PyMuPDF4LLM · Docling · Appwrite · LiveKit · ElevenLabs · Git
-Languages    →  Python · JavaScript · Java · C++
+Languages    →  Python · JavaScript · Java · C++ 
 ```
 
 ---
@@ -67,5 +67,5 @@ Languages    →  Python · JavaScript · Java · C++
 ---
 
 <div align="center">
-<sub>Open to SDE / AI Engineer roles · India & Remote · Available 2025–2026</sub>
+<sub>Open to SDE / AI Engineer roles · India & Remote ·</sub>
 </div>
