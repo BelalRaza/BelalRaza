@@ -28,9 +28,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Sehar**](https://github.com/BelalRaza/sehar) | Voice-first AI assistant with ultra-low latency synthesis, session memory, and auto-generated transcripts | React Native · ElevenLabs · LiveKit · Appwrite |
-| [**FocusSync**](https://github.com/BelalRaza/focussync) | Real-time collaborative focus timer with WebSocket state sync, LWW conflict resolution, and offline-first architecture | React Native · Node.js · WebSockets · MMKV |
-| [**Silent Signal**](https://github.com/BelalRaza/silent-signal) | Anonymous employee feedback platform with encrypted MongoDB storage | React · Node.js · Tailwind · MongoDB |
+| [**Sehar**](https://github.com/BelalRaza/Sehar-Ai) | Voice-first AI assistant with ultra-low latency synthesis, session memory, and auto-generated transcripts | React Native · ElevenLabs · LiveKit · Appwrite |
+| [**FocusSync**](https://github.com/BelalRaza/FocusSync) | Real-time collaborative focus timer with WebSocket state sync, LWW conflict resolution, and offline-first architecture | React Native · Node.js · WebSockets · MMKV |
+| [**Silent Signal**](https://github.com/BelalRaza/silent-signals) | Anonymous employee feedback platform with encrypted MongoDB storage | React · Node.js · Tailwind · MongoDB |
 
 ---
 
