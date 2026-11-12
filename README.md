@@ -8,7 +8,7 @@
 <br/>
 
 
-[![Portfolio](https://cute-puppy-5f14d2.netlify.app/)
+[![Portfolio](https://cute-puppy-5f14d2.netlify.app/)]
 &nbsp;
 
 
