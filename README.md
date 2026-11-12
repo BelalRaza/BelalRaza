@@ -8,7 +8,7 @@
 <br/>
 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white&labelColor=111111)](https://belalrazaportfolio.netlify.app/)
+[![Portfolio](https://cute-puppy-5f14d2.netlify.app/)
 &nbsp;
 
 
